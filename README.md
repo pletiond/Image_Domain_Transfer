@@ -1,1 +1,3 @@
-# Image_Domain_Transfer
+# Unsupervised Cross-Domain Image Generation
+
+Info in [presentation](presentation.pdf)
